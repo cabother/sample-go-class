@@ -1,0 +1,12 @@
+// Declarações de Variáveis
+- Declarar uma variável int com valor inicial 15
+- Declarar uma variável string com valor inicial "Luis Otávio"
+- Declarar uma variável bool com valor inicial true
+
+// Métodos e condições IF's / ELSE
+- Criar um método chamado Login que receberá um nome de usuário e uma senha
+- Método deve retornar uma string
+- Usando um IF para validar e um ELSE para quando não for verdadeira a comparação:
+    - Se o usuário for "otavio" e a senha for "123abc" retornar "Usuário logado com sucesso"
+    - Se usuário ou senha diferentes dos citados acima, retornar "Usuário ou senha incorreto"
+
