@@ -1,0 +1,23 @@
+----------------------------------
+TIPOS DE VARIÁVEIS
+int - numero inteiro
+string - palavra (entre aspas)
+bool - verdadeiro ou falso
+float - números com casas decimais
+----------------------------------
+OPERADORES
+IF - se (testar se a condição é verdadeira)
+ELSE -  SE NÃO (quando o if nao é verdade)
+> MAIOR
+< MENOR
+== IGUAL
+= ATRIBUIR VALOR
+<=MENOR OU IGUAL
+>=MAIOR OU IGUAL
++ - / * MATEMATICOS
+% PEGA O RESTO DA DIVISÃO DE DOIS NUMEROS
+
+----------------------------------
+VARIÁVEl - guarda algum valor, temporariamente
+
+----------------------------------
